@@ -5,6 +5,7 @@ import java.util.Arrays;
 /**
  * 数组划分（561）
  * 
+ * 
  * @author sunhongliang04
  */
 public class ArrayPartition {
@@ -12,6 +13,7 @@ public class ArrayPartition {
 		int[] nums = { 1, 2, 3, 4 };
 		int sum = arrayPairSum(nums);
 		System.out.println(sum);
+		
 	}
 
 	public static int arrayPairSum(int[] nums) {
