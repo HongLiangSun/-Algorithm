@@ -1,4 +1,4 @@
-package algorithm.algorithm;
+package com.shell.algorithm;
 
 /**
  * 汉明距离（461）

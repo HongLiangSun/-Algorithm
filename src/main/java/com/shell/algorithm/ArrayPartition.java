@@ -1,4 +1,4 @@
-package algorithm.algorithm;
+package com.shell.algorithm;
 
 import java.util.Arrays;
 
